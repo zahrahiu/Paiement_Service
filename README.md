@@ -23,3 +23,39 @@ Il permet :
 python --version
 ```
 
+#### 4️⃣ Installer Flask
+```bash
+pip install flask
+```
+
+#### 5️⃣ Installer Flask-Restx (Swagger)
+```bash
+pip install flask-restx
+```
+
+➡️ Swagger sera disponible automatiquement dans le navigateur.
+
+#### 6️⃣ Installer PyMongo (MongoDB Driver)
+```bash
+pip install pymongo
+```
+
+▶️ Lancer le microservice
+```bash
+python app.py
+```
+
+✅ Service lancé sur :
+```bash
+http://localhost:8090
+```
+
+##### 📘 Swagger (Documentation API)
+
+Swagger est déjà intégré via Flask-Restx.
+
+##### ➡️ Ouvrir dans le navigateur :
+
+```bash
+http://localhost:8090
+```
