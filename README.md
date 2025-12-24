@@ -9,11 +9,11 @@ Il permet :
 
 ## 🛠️ Technologies utilisées
 
--Python 3.x
--Flask
--Flask-Restx (Swagger)
--MongoDB (Atlas ou Local)
--PyMongo
+- Python 3.x
+- Flask
+- Flask-Restx (Swagger)
+- MongoDB (Atlas ou Local)
+- PyMongo
 
 ## ⚙️ Installation complète (Step by Step)
 ### 1️⃣ Installer Python
@@ -59,3 +59,4 @@ Swagger est déjà intégré via Flask-Restx.
 ```bash
 http://localhost:8090
 ```
+
