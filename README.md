@@ -39,7 +39,7 @@ pip install flask-restx
 ```bash
 pip install pymongo
 ```
-####Installer les packages nécessaires pour l'intégration JWT et sécurité
+#### Installer les packages nécessaires pour l'intégration JWT et sécurité
 ```bash
 pip install Flask-JWT-Extended bcrypt python-dotenv cryptography
 ```
@@ -62,5 +62,6 @@ Swagger est déjà intégré via Flask-Restx.
 ```bash
 http://localhost:8090
 ```
+
 
 
